@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#top{
+    display: inline-flex;
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#name{
+    font-size: 32px;
+    font-weight: 600;
+    padding-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#menu{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#ref_main{
+    text-decoration: underline;
+}
+
+#ref_research{
+    color: #F77474;
+}
+
+#ref_articles, #ref_research, #ref_tests{
+    margin-left: 75px;
+}
+
+#heading{
+    font-weight: 500;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#content_flex{
+    display: inline-flex;
+    margin-top: 15px;
+    padding: 0 8%;
+}
+#text1, #text2{
+    font-size: 14px;
+    width: 577px;
+    margin-top: 15px;
+}
+
+#t_color{
+    color: #F77474;
+}
+
+#photo1, #photo2{
+    margin-top: 15px;
+}
+
+#text3, #text4, #text5, #text6, #text7{
+    font-size: 14px;
+    width: 577px;
+    margin-top: 10px;
+}
+
+#line{
+    width: 1px;
+    background-color: black;
+    height: 940px;
+    margin: 0 50px;
+}
+
+#signature{
+    font-size: 14px;
+    color: #F77474;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 83.5%;
+}
